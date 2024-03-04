@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "945360508367",
+    "firebase_url": "https://to-do-list-503a9-default-rtdb.firebaseio.com",
+    "project_id": "to-do-list-503a9",
+    "storage_bucket": "to-do-list-503a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945360508367:android:a7af821461ef81daf12eba",
+        "android_client_info": {
+          "package_name": "com.example.to_do_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZX-mSfC-Y4O2JTazVKPaukF0nWQ16JgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945360508367:android:b920338d0d3a2895f12eba",
+        "android_client_info": {
+          "package_name": "com.example.to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZX-mSfC-Y4O2JTazVKPaukF0nWQ16JgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
